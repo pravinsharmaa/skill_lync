@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/skill_lync/static/css/main.8ffba4f7.chunk.css",
+    "main.js": "/skill_lync/static/js/main.401b04e4.chunk.js",
+    "main.js.map": "/skill_lync/static/js/main.401b04e4.chunk.js.map",
+    "runtime-main.js": "/skill_lync/static/js/runtime-main.20ff0ee3.js",
+    "runtime-main.js.map": "/skill_lync/static/js/runtime-main.20ff0ee3.js.map",
+    "static/css/2.e9478c6c.chunk.css": "/skill_lync/static/css/2.e9478c6c.chunk.css",
+    "static/js/2.6604bcd6.chunk.js": "/skill_lync/static/js/2.6604bcd6.chunk.js",
+    "static/js/2.6604bcd6.chunk.js.map": "/skill_lync/static/js/2.6604bcd6.chunk.js.map",
+    "static/js/3.d102f333.chunk.js": "/skill_lync/static/js/3.d102f333.chunk.js",
+    "static/js/3.d102f333.chunk.js.map": "/skill_lync/static/js/3.d102f333.chunk.js.map",
+    "index.html": "/skill_lync/index.html",
+    "static/css/2.e9478c6c.chunk.css.map": "/skill_lync/static/css/2.e9478c6c.chunk.css.map",
+    "static/css/main.8ffba4f7.chunk.css.map": "/skill_lync/static/css/main.8ffba4f7.chunk.css.map",
+    "static/js/2.6604bcd6.chunk.js.LICENSE.txt": "/skill_lync/static/js/2.6604bcd6.chunk.js.LICENSE.txt",
+    "static/media/carrier_video.fc69d7b3.png": "/skill_lync/static/media/carrier_video.fc69d7b3.png",
+    "static/media/img1.cd57fd3a.jpg": "/skill_lync/static/media/img1.cd57fd3a.jpg",
+    "static/media/img2.deff678f.jpg": "/skill_lync/static/media/img2.deff678f.jpg",
+    "static/media/img3.aa602b60.png": "/skill_lync/static/media/img3.aa602b60.png",
+    "static/media/img4.4a945fee.png": "/skill_lync/static/media/img4.4a945fee.png",
+    "static/media/laptop.ac055aab.svg": "/skill_lync/static/media/laptop.ac055aab.svg",
+    "static/media/mob_data.8fae025c.png": "/skill_lync/static/media/mob_data.8fae025c.png",
+    "static/media/mobile.251210e8.png": "/skill_lync/static/media/mobile.251210e8.png",
+    "static/media/projects.32ba5ba6.svg": "/skill_lync/static/media/projects.32ba5ba6.svg",
+    "static/media/skyblue_oval.3a04260f.png": "/skill_lync/static/media/skyblue_oval.3a04260f.png",
+    "static/media/star.028d5bbe.svg": "/skill_lync/static/media/star.028d5bbe.svg",
+    "static/media/yellow_oval.dc0eaeec.png": "/skill_lync/static/media/yellow_oval.dc0eaeec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ff0ee3.js",
+    "static/css/2.e9478c6c.chunk.css",
+    "static/js/2.6604bcd6.chunk.js",
+    "static/css/main.8ffba4f7.chunk.css",
+    "static/js/main.401b04e4.chunk.js"
+  ]
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo/projects</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0D55CF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0D55CF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#0D55CF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0D55CF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#0D55CF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="course-card" transform="translate(-23.000000, -324.000000)">
+            <g id="Group-4" transform="translate(21.000000, 322.000000)">
+                <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+                <g id="Group-2" transform="translate(3.000000, 3.000000)">
+                    <polyline id="Path-3" stroke="url(#linearGradient-1)" points="22 10.3114395 22 0 0 0 0 23.9590988 13.2619769 23.9590988"></polyline>
+                    <circle id="Oval" fill="url(#linearGradient-2)" cx="3.41343689" cy="4.33444214" r="1"></circle>
+                    <rect id="Rectangle" fill="url(#linearGradient-3)" x="6.41343689" y="3.33444214" width="11" height="2"></rect>
+                    <circle id="Oval" fill="url(#linearGradient-2)" cx="3.41343689" cy="10.3344421" r="1"></circle>
+                    <circle id="Oval" stroke="url(#linearGradient-2)" fill="#FFFFFF" cx="19.4134369" cy="19.3344421" r="5"></circle>
+                    <rect id="Rectangle" fill="url(#linearGradient-3)" x="6.41343689" y="9.33444214" width="11" height="2"></rect>
+                    <circle id="Oval" fill="url(#linearGradient-2)" cx="3.41343689" cy="16.3344421" r="1"></circle>
+                    <rect id="Rectangle" fill="url(#linearGradient-4)" x="6.41343689" y="15.3344421" width="6" height="2"></rect>
+                    <polyline id="Path-4" stroke="url(#linearGradient-5)" points="19.4134369 16.3344421 19.4134369 19.3344421 22 20.7003174"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
