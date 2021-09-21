@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/skill_lync/static/css/main.1ffaf110.chunk.css",
-    "main.js": "/skill_lync/static/js/main.a8a4afd5.chunk.js",
-    "main.js.map": "/skill_lync/static/js/main.a8a4afd5.chunk.js.map",
+    "main.js": "/skill_lync/static/js/main.f49b61da.chunk.js",
+    "main.js.map": "/skill_lync/static/js/main.f49b61da.chunk.js.map",
     "runtime-main.js": "/skill_lync/static/js/runtime-main.20ff0ee3.js",
     "runtime-main.js.map": "/skill_lync/static/js/runtime-main.20ff0ee3.js.map",
     "static/css/2.e9478c6c.chunk.css": "/skill_lync/static/css/2.e9478c6c.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.e9478c6c.chunk.css",
     "static/js/2.4741ad22.chunk.js",
     "static/css/main.1ffaf110.chunk.css",
-    "static/js/main.a8a4afd5.chunk.js"
+    "static/js/main.f49b61da.chunk.js"
   ]
 }
